@@ -8,10 +8,15 @@ MvLR:
 - Discussion shuffle
 
 pCLE:
-??
+- new baseline with 3 classes
+- new supervised training with 3 classes
 
 
-# Fri 30 Jan
+# Mon 2 Feb
+- pCLE:
+    - new baseline with 3 classes
+    - new supervised training with 3 classes
+
 
 # Fri 23 Jan
 - [x] VLM baseline
