@@ -11,6 +11,9 @@ pCLE:
 - new baseline with 3 classes
 - new supervised training with 3 classes
 
+# Fri 13 Feb
+- MvLR:
+  - Finish the tables.
 
 # Mon 2 Feb
 - pCLE:
